@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Network Switch</string>
+    <string name="add_network_switch_widget_to_home">Add Network Switch widget to home</string>
+    <string name="screen_to_access_network_settings_menu">screen to access network settings menu</string>
+    <string name="how_to">How to use:\n-Click on the button below\n-Set preferred network type to\n-LTE only for 4G\n-UMTS or CDMA for 3G\n-EDGE for 2G\n-Also accessible from widget</string>
+</resources>
